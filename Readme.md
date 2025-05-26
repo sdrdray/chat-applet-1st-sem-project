@@ -1,5 +1,3 @@
-Here's your full, **properly formatted `README.md`-style** version of the project description, with corrected structure and clear sections:
-
 ---
 
 # 🔐 Simple Encrypted Messaging App
@@ -92,5 +90,3 @@ This project is licensed under the **MIT License**.
 *Building secure real-time messaging with simplicity and privacy.*
 
 ---
-
-Let me know if you'd like me to turn this into a real `README.md` file or format it differently (e.g., for a portfolio site).
